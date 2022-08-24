@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @omkarkulkarni22
 - 👀 I’m interested in Backend Development
 - 🌱 I’m currently working with Digitap.ai
-- 💞️ I’m collaborate on AA, BE development
+- 💞️ I’m collaborate with AA & BE Team
 - 📫 How to reach me Call - 8805499449
 
 <!---
