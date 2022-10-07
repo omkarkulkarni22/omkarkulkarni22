@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @omkarkulkarni22
+- 👋 Hi, I’m Omkar Kulkarni
 - 👀 I’m interested in Backend Development
 - 🌱 I’m currently working with Digitap.ai
 - 💞️ I collaborate with AA & BE Team
