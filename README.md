@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=omkarkulkarni22&color=green)
 - 👋 Hi, I’m Omkar Kulkarni
 - 👀 I’m interested in Backend Development
 - 🌱 I’m currently working with Digitap.ai
